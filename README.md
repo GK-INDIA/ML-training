@@ -1,2 +1,2 @@
-# ML-training
-A repository for quick practicing of ML Basics with Python
+# Python-Data-Science-and-Machine-Learning Basics
+Repo for Python Data Science and Machine Learning Basics
