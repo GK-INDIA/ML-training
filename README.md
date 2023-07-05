@@ -11,6 +11,7 @@ conda create -name training_env python=3.8
 conda activate training_env
 ```
 3. Install the required packages in below given sequence:
+   
  a. ```pip install numpy```
 
  b. ```pip install pandas```
