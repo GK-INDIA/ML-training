@@ -12,10 +12,15 @@ conda activate training_env
 ```
 3. Install the required packages in below given sequence:
  a. ```pip install numpy```
+
  b. ```pip install pandas```
+
  c. ```pip install matplotlib```
+
  d. ```pip install seaborn```
+
  e. ```pip install plotly```
+ 
  f. ```pip install scipy```
 
 4.  Install all Jupyter dependencies by the command:
